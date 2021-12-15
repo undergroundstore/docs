@@ -16,3 +16,7 @@
 * [.ugspec Files](core-files/.ugspec-files.md)
 * [Torchfile](core-files/torchfile.md)
 * [Tunnelfile](core-files/tunnelfile.md)
+
+***
+
+* [Miscellaneous Quirks](miscellaneous-quirks.md)
