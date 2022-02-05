@@ -4,9 +4,11 @@ description: What is Pebble? Do I need it? Should I use it for my own purposes?
 
 # Pebble
 
-Pebble is a custom human-readable syntax similar to JSON used by Underground for core files.&#x20;
+Pebble is a custom human-readable syntax similar to JSON used by Underground for core files.
 
 
+
+\# is used as the comment indicator in Pebble.
 
 FAQ:
 
